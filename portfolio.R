@@ -24,3 +24,5 @@ model=stockModel(comb,model="SIM",shortSelling = "n",index = 92)
 op=optimalPort(model)
 
 
+
+# end of code
